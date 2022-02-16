@@ -1,0 +1,1 @@
+opencv and mediapipe hands detector for drawing on screen
